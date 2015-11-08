@@ -1,0 +1,143 @@
+
+
+/* Navbar */
+
+.page2title{
+	margin-top:100px;
+}
+
+
+
+
+/* Titles */
+
+.pageTitle{
+	color:#FF2D55; 
+	font-size:64px; 
+	font-family:"Helvetica Neue";
+}
+
+.portTitle{
+	color:#FF2D55; 
+	font-size: 54px;
+	font-family: "Helvetica Neue";
+}
+
+
+
+/* Things I Do */
+
+.skillItem{
+	font-size: 24px;
+}
+
+
+/* The Process */
+
+.content-section-process{
+	background-color: #FF2D55;
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+
+.content-section-a{
+	border-top:1px solid #e7e7e7;
+}
+
+
+.theProcess p{
+	color:#ffffff;
+	font-family: "Helvetica Neue";
+	font-weight: 200;
+	letter-spacing: 1px;
+	margin-top: 10px;
+	text-align: center;
+}
+
+
+.theProcess{
+	text-align: center;
+}
+
+.processTitle{
+	color: #ffffff;
+	font-family: "Helvetica Neue";
+	text-align: center;
+}
+
+.processItem{
+	font-weight: 900;
+}
+
+.theProcess li{
+	display: inline;
+}
+
+
+.processTitle{
+	margin-bottom: 70px;
+}
+
+
+
+/* Portfolio */
+
+.iphoneNBA{
+	margin-left: 100px;
+	margin-top: 70px;
+}
+
+.uWaterloo{
+	margin-top:100px;
+}
+
+
+.sub-titlePort{
+	font-family: "Helvetica Neue";
+	font-size: 44px;
+	font-weight: 100;
+	color: #4A4A4A;
+}
+
+.portBio{
+	font-family: "Helvetica Neue";
+	color: #9B9B9B;
+}
+
+
+/* Contact Page */
+
+.contactInfo{
+	font-family: "Helvetica Neue";
+	color:#34495e;
+	font-size: 46px; 
+	font-weight: 100;
+	margin-top: 85px;
+}
+
+.contactItems{
+	margin-top: 25px;
+	margin-bottom: 85px;
+}
+
+.contactItems li{
+	display: inline;
+	margin: 10px;
+}
+
+
+/* Contact */
+
+.footer{
+	background-color: #FF2D55;
+	height:100px;
+}
+
+.myemail{
+	display: inline-block;
+	margin-left: 10px;
+	font-family: "Helvetica Neue";
+} p {
+	color: #34495e;
+	font-weight: 900;
+}
