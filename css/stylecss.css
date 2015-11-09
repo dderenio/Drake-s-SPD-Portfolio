@@ -15,6 +15,7 @@
 	color:#FF2D55; 
 	font-size:64px; 
 	font-family:"Helvetica Neue";
+	margin-bottom: 20px;
 }
 
 .portTitle{
@@ -88,20 +89,63 @@
 }
 
 .uWaterloo{
-	margin-top:100px;
+	margin-top:170px;
 }
 
+.sub-title{
+	text-align: right;
+}
 
 .sub-titlePort{
 	font-family: "Helvetica Neue";
 	font-size: 44px;
 	font-weight: 100;
 	color: #4A4A4A;
+	text-align: right;
+}
+
+.sub-titlePort2{
+	font-family: "Helvetica Neue";
+	font-size: 44px;
+	font-weight: 100;
+	color: #4A4A4A;
+	text-align: left;
+}
+
+.portTitle{
+	margin-top: 100px;
 }
 
 .portBio{
 	font-family: "Helvetica Neue";
 	color: #9B9B9B;
+}
+
+.btn-behance-right{
+	float:right;
+}
+
+.designerleft{
+	float: left;
+}
+
+@media only screen and (max-width: 768px){
+	.portTitle{
+		text-align: center;
+		margin-top:10px;
+	}
+	
+	.btn-behance-right{
+		float: none;
+	}
+	
+	.sub-titlePort2{
+		text-align: center;
+	}
+	
+	.pageTitle{
+		text-align: center;
+	}
 }
 
 
